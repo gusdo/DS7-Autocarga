@@ -60,27 +60,33 @@ AutocargaEjemplo/
 |
 └── index.php
 ```
-![Login](Esturctura.png)
+![Login](Imagenes/Esturctura.png)
 
 ## Pruebas de ejecución
 
 Codigo de User.php
-![Login](CUser.png)
+
+![Login](Imagenes/CUser.png)
 
 Codigo de ProductModel.php
-![Login](CProduct.png)
+
+![Login](Imagenes/CProduct.png)
 
 Codigo Index.php
-![Login](CIndex.png)
+
+![Login](Imagenes/CIndex.png)
 
 Codigo Composer.json
-![Login](CComposer.png)
+
+![Login](Imagenes/CComposer.png)
 
 Composer dump-autoload
-![Login](DumpAutolad.png)
+
+![Login](Imagenes/DumpAutolad.png)
 
 Ejecución
-![Login](Ejecucion.png)
+
+![Login](Imagenes/Ejecucion.png)
 
 ## Dificultades y Soluciones
 
